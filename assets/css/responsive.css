@@ -1,0 +1,61 @@
+/* ==========================================================================   
+   Media Queries
+========================================================================== */
+
+@media (min-width: 2133px) and (max-width: 2900px) {
+   .container {max-width: 1600px;}
+   .content-col h3 {font-size: 55px;}
+   .content-col p {font-size: 20px;}
+   .blogs-section h1 {font-size: 55px;}
+   .portfolio-section h1 {font-size: 55px;}
+   .portfolio-section h3 {font-size: 25px;}
+   .videos_info h4 {font-size: 40px;}
+   .videos_info p {font-size: 20px;}
+   .moreinfo-section h1 {font-size: 55px;}
+   .moreinfo-section h3 {font-size: 25px;}
+   .moreinfo-section p {font-size: 20px;}
+   .moreinfo p {font-size: 17px;}
+   .primary {font-size: 55px;line-height: 1.1;}
+   .secondary {font-size: 25px;}
+   .Grey {font-size: 30px;}
+   .feature-section h1 {font-size: 55px;}
+   .feature-box a {font-size: 20px;}
+   .feature-box p {font-size: 18px;}
+   .feature-box h2 {font-size: 26px;}
+   .blog-img img {height: 440px;}
+   .blog-posts p {font-size: 19px;}
+   .blog-posts a {font-size: 20px;}
+   .blog-posts {height: 800px;}
+   .article-icons img {width: 85px;}
+   .article-describtion h3 {font-size: 24px;line-height: 1.2;}
+   .article-describtion p {font-size: 20px;}
+   .article-describtion a {font-size: 22px;}
+   .article-info {padding: 30px;}
+   .article-section h1 {font-size: 55px;}
+   .article-section h3 {font-size: 25px;}
+   .strand {width: 12px;height: 40px;}
+   .top, .bottom {height: 12px;width: 12px;}
+   .webinar-icons img {width: 85px;}
+   .webinar-describtion h3 {font-size: 24px;line-height: 1.2;}
+   .webinar-describtion p {font-size: 20px;}
+   .webinar-describtion a {font-size: 22px;}
+   .webinar-info {padding: 30px;}
+   .webinar-section h1 {font-size: 55px;}
+   .webinar-section h3 {font-size: 25px;}
+   .form-title h1 {font-size: 55px;}
+   .form-title p {font-size: 25px;}
+   .dict-form-field .form-control:not(textarea) {
+    height: calc(1.25em + 1.75rem + 15px);
+    .dict-form-field .form-control {font-size: 20px;}
+    .dict-form-field label {font-size: 20px;}
+}
+@media (min-width: 1240px) and (max-width: 1760px){
+   .container {max-width: 1200px;}
+   .blog-img img {height: 360px;}
+   .blog-posts p {font-size: 19px;}
+   .blog-posts a {font-size: 20px;}
+   .blog-posts {
+    height: 800px;
+    padding: 20px;
+}
+}
