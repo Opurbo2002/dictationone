@@ -184,61 +184,75 @@
 }
 @media (min-width: 320px) and (max-width: 480px){
    .container{max-width: 390px;}
-   .banner-title h2 {font-size: 20px;}
+   .banner-section{padding: 80px 10px;}
+   .banner-title h2 {font-size: 14px;}
    .banner-title p {font-size: 11px;}
    .b-sup {font-size: 11px;}
    .btn-lg {font-size: 14px;}
-   .subscription-title h4 {font-size: 14px;}
-   .subscription-title p {font-size: 18px;}
-   .content-title h3 {font-size: 18px;}
-   .content-title h1 {font-size: 25px;}
+   .subscription-section{padding: 80px 10px;}
+   .subscription-title h4 {font-size: 11px;}
+   .subscription-title p {font-size: 13px;}
+   .content-title h3 {font-size: 15px;}
+   .content-title h1 {font-size: 20px;}
    .content-col {padding: 0px 15px 30px 10px;}
    .sub-content h1 {font-size: 35px;}
    .sub-content p {font-size: 12px;}
-   .content-col h3 {font-size: 30px;text-align: center;}
-   .content-col p {font-size: 14px;text-align: center;}
-   .portfolio-section h1 {font-size: 25px;}
+   .content-col h3 {font-size: 20px;text-align: center;}
+   .content-col p {font-size: 11px;text-align: center;}
+   .portfolio-section{padding: 80px 10px;}
+   .portfolio-section h1 {font-size: 20px;}
    .portfolio-section h3 {font-size: 25px;}
-   .portfolio-title h4 { font-size: 18px;}
+   .portfolio-title h4 {font-size: 15px;}
+   .reverse2{display: flex;flex-direction:column-reverse;}
    .videos_info {padding: 20px 0px 60px 20px;}
    .videos_info h4 {font-size: 20px;}
    .videos_info p {font-size: 14px;}
-   .moreinfo-section h1 {font-size: 25px;}
-   .moreinfo-section h3 {font-size: 18px;}
-   .moreinfo-section p {font-size: 15px;}
-   .about-info img {width: 10%;}
+   .moreinfo-section{padding: 80px 10px;}
+   .moreinfo h2 {font-size: 16px;}
+   .moreinfo-section h1 {font-size: 20px;}
+   .moreinfo-section h3 {font-size: 15px;}
+   .moreinfo-section p {font-size: 12px;}
+   .about-info img {width: 18%;}
    .moreinfo p {font-size: 12px;margin: 0px 25px;}
    .blocklink h4{font-size: 14px;}
-   .primary {font-size: 30px;text-align: center;line-height: 1.1;}
-   .secondary {font-size: 18px;text-align: center;}
-   .Grey {font-size: 20px;text-align: center;margin-top: 10px;}
-   .feature-section h1 {font-size: 25px;}
+   .primary {font-size: 20px;text-align: center;line-height: 1.1;}
+   .secondary {font-size: 13px;text-align: center;}
+   .Grey {font-size: 15px;text-align: center;margin-top: 10px;}
+   .feature-section{padding: 80px 10px;}
+   .feature-section h1 {font-size: 20px;}
    .feature-box a {font-size: 12px;}
    .feature-box p {font-size: 12px;}
    .feature-box h2 {font-size: 15px;}
-   .blogs-section h1 {font-size: 25px;}
-   .blogs-section h3{font-size: 18px;}
+   .blogs-section{padding: 80px 10px;}
+   .blogs-section h1 {font-size: 20px;}
+   .blogs-section h3{font-size: 15px;}
    .blog-posts h2 {font-size: 20px;}
    .blog-img img {height: 300px;}
    .blog-posts p {font-size: 14px;}
    .blog-posts a {font-size: 14px;}
-   .blog-posts {height: 630px;}
-   .article-icons img {width: 50px;}
+   .blog-posts {height: 680px;}
+   .article-section{padding: 80px 10px;}
+   .article-icons img {width: 50px;margin: 0 auto;}
    .article-describtion h3 {font-size: 24px;line-height: 1.2;}
    .article-describtion p {font-size: 11px;}
    .article-describtion a {font-size: 11px;}
    .article-info {padding: 15px;}
-   .article-section h1 {font-size: 25px;}
-   .article-section h3 {font-size: 11px;}
+   .article-section h1 {font-size: 21px;}
+   .article-section h3 {font-size: 14px;padding-bottom: 10px;padding-left: 0;}
    .strand {width: 8px;height: 30px;}
    .top, .bottom {height: 12px;width: 12px;}
+   .webinar-section{padding: 80px 10px;}
    .webinar-icons img {width: 60px;}
    .webinar-describtion h3 {font-size: 18px;line-height: 1.2;}
    .webinar-describtion p {font-size: 12px;}
    .webinar-describtion a {font-size: 12px;}
    .webinar-info {padding: 30px;}
-   .webinar-section h1 {font-size: 30px;}
-   .webinar-section h3 {font-size: 13px;padding-top: 12px;}
+   .webinar-section h1 {font-size: 22px;}
+   .webinar-section h3 {font-size: 15px;padding-left: 0;}
    .tab-width{width: 90%;margin: 0 auto;}
-   .small{padding: 20px 50px;}
+   .form-title p {font-size: 12px;}
+   .form-title h1 {font-size: 20px;}
+   .dict-form-field label {font-size: 11px;}
+   .small {padding: 20px 22px;}
+   .btn-reg {font-size: 14px;}
 }
