@@ -182,7 +182,7 @@
    .tab-width{width: 90%;margin: 0 auto;}
    .small{padding: 20px 50px;}
 }
-@media (min-width: 320px) and (max-width: 480px){
+@media (min-width: 320px) and (max-width: 600px){
    .container{max-width: 390px;}
    .banner-section{padding: 80px 10px;}
    .banner-title h2 {font-size: 14px;}
