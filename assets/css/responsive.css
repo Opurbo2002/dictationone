@@ -64,6 +64,8 @@
 }
 
 @media (max-width: 320px){
+   .multicolumndata {
+    padding: 80px 15px;}
    .content-title h1 {font-size: 22px;}
    .primary {font-size: 21px;}
    .article-info {margin: 15px 5px;padding: 10px;}
